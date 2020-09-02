@@ -1,0 +1,2 @@
+model_checkpoint_path: "episode-3000"
+all_model_checkpoint_paths: "episode-3000"
